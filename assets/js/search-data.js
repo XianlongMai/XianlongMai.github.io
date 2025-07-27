@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Xianlong Mai", "_blank");
+          window.open("https://www.linkedin.com/in/xianlong-mai-b3517235b", "_blank");
         },
       },{
         id: 'social-orcid',
