@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD candidate at University of Science and Technology of China</a>. mxl2726@mail.ustc.edu.cn
+subtitle: <a href='https://www.ustc.edu.cn/'>University of Science and Technology of China</a>    mxl2726@mail.ustc.edu.cn
 
 profile:
   align: right
