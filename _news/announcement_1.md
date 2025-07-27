@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Congratulations! My personal website was built today!
