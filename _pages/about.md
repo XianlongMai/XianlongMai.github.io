@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>PhD candidate at University of Science and Technology of China</a>. mxl2726@mail.ustc.edu.cn
 
 profile:
   align: right
