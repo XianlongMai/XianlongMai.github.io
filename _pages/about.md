@@ -30,5 +30,5 @@ Hi, welcome to my website.
 
 My name is Xianlong Mai, a PhD candidate (Supervisor: Prof. Shuaishuai Sun) at <a href='https://www.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>. I received my B.SC degree in theoretical and applied mechanics from USTC in 2021. I was a visiting PhD student (Supervisor: Prof. Antonio Frisoli) in Scuola Superiore Sant'anna, Italy, from Nov. 2024 to Apr. 2026.
 
-My research intrests include human-augmented exoskeletons (especially for hands), haptics and its use in virtual reality and robot teleoperation. If you have great inspirations and want to talk with me, please don't hesitate to contact me via <p>mxl2726@mail.ustc.edu.cn<p> at any time!
+My research intrests include human-augmented exoskeletons (especially for hands), haptics and its use in virtual reality and robot teleoperation. If you have great inspirations and want to talk with me, please don't hesitate to <a href="mailto:mxl2726@mail.ustc.edu.cn">contact me</a> at any time!
 
