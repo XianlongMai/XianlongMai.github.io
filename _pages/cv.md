@@ -1,11 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-#cv_pdf: example_pdf.pdf # you can also use external links here
-description: Please download my CV <a href='https://github.com/XianlongMai/XianlongMai.github.io/raw/90c0898fe6ee558f6cbfa4ec4fd6ce7e52c1295a/assets/pdf/CV-XianlongMai-new.pdf'>here</a>.
-#toc:
-#  sidebar: left
+cv_pdf: CV-XianlongMai-new.pdf
 ---
+
+Please download my CV [here](/assets/pdf/CV-XianlongMai-new.pdf).
