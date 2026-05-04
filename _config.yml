@@ -203,6 +203,7 @@ exclude:
   - _data/cv.yml
   - _includes/cv
   - _includes/resume
+  - _layouts/cv.liquid
 keep_files:
   - CNAME
   - .nojekyll
