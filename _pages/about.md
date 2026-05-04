@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='https://www.ustc.edu.cn/'>University of Science and Technology of China</a>
          
