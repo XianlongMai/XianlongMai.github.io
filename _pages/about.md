@@ -32,3 +32,4 @@ My name is Xianlong Mai, a PhD candidate (Supervisor: Prof. Shuaishuai Sun) at <
 
 My research intrests include human-augmented exoskeletons (especially for hands), haptics and its use in virtual reality and robot teleoperation. If you have great inspirations and want to talk with me, don't hesitate to <a href="mailto:mxl2726@mail.ustc.edu.cn">contact me</a> at any time!
 
+Also, you can download my CV <a href='https://github.com/XianlongMai/XianlongMai.github.io/raw/90c0898fe6ee558f6cbfa4ec4fd6ce7e52c1295a/assets/pdf/CV-XianlongMai-new.pdf'>here</a>.
