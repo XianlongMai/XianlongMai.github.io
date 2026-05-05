@@ -204,6 +204,7 @@ exclude:
   - _includes/cv
   - _includes/resume
   - _layouts/cv.liquid
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
